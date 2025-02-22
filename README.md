@@ -1,4 +1,4 @@
-# Weather App
+# Group Chat App
 ---
 Build Using
   - HTML
